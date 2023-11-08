@@ -77,8 +77,13 @@ footer a:link, footer a:visited {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
   }
+
+.centerP5{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
 
 .quote {
   padding-left: 1em; 
